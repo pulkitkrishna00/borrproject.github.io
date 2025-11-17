@@ -22,7 +22,7 @@ const config = {
   url: 'https://borrproject.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/borrproject.github.io/',
   trailingSlash: true,
 
   // GitHub pages deployment config.
@@ -63,7 +63,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/BorrProject/borrproject.github.io/edit/main/',
-          routeBasePath: '/',
+          routeBasePath: '/borrproject.github.io/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
