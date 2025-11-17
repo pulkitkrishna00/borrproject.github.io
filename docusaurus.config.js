@@ -63,7 +63,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/BorrProject/borrproject.github.io/edit/main/',
-          routeBasePath: '/borrproject.github.io/',
+          routeBasePath: '/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
